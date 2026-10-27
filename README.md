@@ -14,6 +14,7 @@ jadwal belajar
 - HTML5
 - CSS3 (Flexbox dan media query)
 - Git dan GitHub
+- VS code dan live server
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
 - Dibuat oleh: Andi Pratama, SMK Mitra
