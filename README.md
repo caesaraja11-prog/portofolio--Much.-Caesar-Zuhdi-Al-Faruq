@@ -7,6 +7,7 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Fitur 
 - Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan
 jadwal belajar
+
 - Halaman **Proyek** berisi daftar proyek dalam bentuk kartu
 - Halaman **Kontak** berisi form untuk menghubungi saya
 - Tampilan responsif dengan Flexbox dan *media query*
