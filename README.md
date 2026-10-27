@@ -16,5 +16,5 @@ jadwal belajar
 - Git dan GitHub
 - VS code dan live server
 ## Tautan
-- Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Andi Pratama, SMK Mitra
+- Website: https://portofoliomuchcaesarzuhdialfaruq.vercel.app/
+- Dibuat oleh: Much Caesar Zuhdi AL Faruq, SMKN 1 pasuruan
